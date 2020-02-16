@@ -162,7 +162,7 @@ with rasterio.open("G:\Samuel\Semester_3\GIS_Programming\lab5\data\data\L5_big_e
 
 #Print statement conclusion
 print('The data shows that aspect of the terrain is best for class 8, or areas between 292.5 and 337.5.' + '\n' + 
-      'This indicates that areas facing northwestern will preform best for the recovery ratio while areas facing southeaste' + '\n' + 
+      'This indicates that areas facing northwestern will preform best for the recovery ratio while areas facing southeast' + '\n' + 
       'will preform the worst (112.5 - 157.5). Additionally, areas with higher slope such as classes near class 10 will having a lower mean in recovery.' + '\n' + 
       'Slopes in class 2 preform the best while slopes in class 10 preform the worst. Generally speaking, as slope increases, it decreases in preformance for recovery.')
 
